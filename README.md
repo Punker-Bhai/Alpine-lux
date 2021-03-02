@@ -21,6 +21,6 @@ bash lux.sh
 ```
 * To start Alpine > `startalpine`
 ## Steps after installation
-* Update & Upgrade > `apt update && apt upgrade -y`
-* To install any Package > `apt add "package-name"`
+* Update > `apk update`
+* To install any Package > `apk add "package-name"`
 ### THANK YOU ~ KEEP SUPPORTING
