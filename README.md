@@ -19,7 +19,7 @@ git clone https://github.com/Punker-Bhai/Alpine-lux.git
 cd Alpine-lux
 bash lux.sh
 ```
-* To start Alpine `startalpine`
+* To start Alpine > `startalpine`
 ## Steps after installation
 * Update & Upgrade > `apt update && apt upgrade -y`
 * To install any Package > `apt add "package-name"`
