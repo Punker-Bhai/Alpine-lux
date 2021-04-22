@@ -15,7 +15,7 @@ cd $HOME
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/Punker-Bhai/Alpine-lux.git
+git clone https://github.com/hackerspunk/Alpine-lux.git
 cd Alpine-lux
 bash lux.sh
 ```
