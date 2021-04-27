@@ -3,7 +3,7 @@
 </p>
 </p>
 <p align="center">
-<a href="https://punkers.business.site"><img title="HACKERSPUNK" src="https://img.shields.io/badge/HACKERS-PUNK-green?style=for-the-badge&logo=appveyor"></a>
+<a href="https://punkers.business.site"><img title="HACKERSPUNK" src="https://img.shields.io/badge/Network-Slutter-green?style=for-the-badge&logo=appveyor"></a>
 </p>
 
 # ALPINE-LUX
@@ -15,7 +15,7 @@ cd $HOME
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/hackerspunk/Alpine-lux.git
+git clone https://github.com/netslutter/Alpine-lux.git
 cd Alpine-lux
 bash lux.sh
 ```
